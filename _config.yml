@@ -24,6 +24,9 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Categories', link: '/categories'}
+  - {name: 'Resources', link: '/resources'}
+  - {name: 'Critical ai', link: '/critical-ai-scholars'}
 
 tagline: >
   fictional broccoli theme
@@ -69,3 +72,9 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+
+# COLLECTIONS and DEFAULT settings ## TS ##
+
+
+
