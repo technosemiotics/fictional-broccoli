@@ -81,6 +81,9 @@ collections:
   concepts:
     output: true
     permalink: /:name/
+  events:
+    output: true
+    permalink: /:name/
 
 defaults:
   -
